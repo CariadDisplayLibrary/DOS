@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: DOS.h
-Description: DOS font for DisplayCore
+Description: DOS
