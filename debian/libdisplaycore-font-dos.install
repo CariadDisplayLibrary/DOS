@@ -1,2 +1,3 @@
-DOS.cpp libraries/DisplayCore/DOS
-DOS.h libraries/DisplayCore/DOS
+library.json libraries/DisplayCore/DOS
+library.properties libraries/DisplayCore/DOS
+src libraries/DisplayCore/DOS
